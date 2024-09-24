@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Computer Science **
 
 - 📫 How to reach me **salmagrami0@gmail.com**
+![atlassian-jira-logo-large](https://github.com/user-attachments/assets/8209c07c-3411-4776-acba-30e7ca9c5cf3)
 
 
 
