@@ -10,9 +10,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gramisalma&show_icons=true&locale=en&layout=compact" alt="gramisalma" /></p>
 <br>
 
-<h3 > Tools:</h3>
+<h3 align="center"> Tools:</h3>
 
-<table align="left">
+<table align="center">
     <tr>
         <th>Category</th>
         <th>Tools</th>
