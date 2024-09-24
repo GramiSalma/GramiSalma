@@ -6,6 +6,11 @@
 - 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me: **salmagrami0@gmail.com**
+<h3 align="left">Most Used Languages:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gramisalma&show_icons=true&locale=en&layout=compact" alt="gramisalma" /></p>
+
+
+
 
 <h3 align="left"> Tools:</h3>
 
@@ -102,6 +107,3 @@
 
 <br>
 
-
-<h3 align="left">Most Used Languages:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gramisalma&show_icons=true&locale=en&layout=compact" alt="gramisalma" /></p>
