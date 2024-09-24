@@ -14,7 +14,7 @@
 <h3 align="left"> Tools:</h3>
 <p align="left">
     <h4>Management tools </h4>    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://wac-cdn.atlassian.com/dam/jcr:efed60a8-f8a4-4f9e-b3f3-e89e5c9bc1d1/jira_logo.png" alt="Jira" width="40" height="40"/>
+    <img src="https://wac-cdn.atlassian.com/dam/jcr:72b1fca0-e1e2-4ab1-a7e2-5f8375c3c80b/jira-logo-2020.svg" alt="Jira" width="40" height="40"/>
 </a>
 
 
