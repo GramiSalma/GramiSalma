@@ -15,6 +15,10 @@
 <h3 align="left"> Tools:</h3>
 <p align="left">
     <h4>Management tools </h4>    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/8209c07c-3411-4776-acba-30e7ca9c5cf3" alt="Jira" height="40"/>
+</a>
+
   <h4>Front end </h4>  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
