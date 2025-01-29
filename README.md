@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm GRAMI SALMA</h1>
-<h3 align="center">I have a strong passion for computer science & Artificial Intelligence</h3>
+<h3 align="center">Passionate Computer Science Engineer specializing in Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gramisalma&label=Profile%20views&color=0e75b6&style=flat" alt="gramisalma" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=gramisalma&label=Profile%20views&color=0e75b6&style=flat" alt="gramisalma" /> 
+</p>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🎓 **Engineer** in Computer Science  
+- 🌱 Currently deepening my knowledge in **AI and Machine Learning**  
+- 📫 How to reach me: **salmagrami0@gmail.com**  
 
-- 📫 How to reach me: **salmagrami0@gmail.com**
 <h3 align="center">Most Used Languages:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gramisalma&show_icons=true&locale=en&layout=compact" alt="gramisalma" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gramisalma&show_icons=true&locale=en&layout=compact" alt="gramisalma" />
+</p>
 <br>
 
-<h3 align="center"> Tools:</h3>
+<h3 align="center">Tools & Technologies:</h3>
 
 <table align="center">
     <tr>
@@ -82,7 +87,7 @@
         </td>
     </tr>
     <tr>
-        <td><strong>Data Analysis</strong></td>
+        <td><strong>Data Analysis & AI</strong></td>
         <td>
             <a href="https://opencv.org/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -104,4 +109,3 @@
 </table>
 
 <br>
-
